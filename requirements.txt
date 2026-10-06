@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+opencv-python
+face_recognition
+numpy
+Pillow
+requests
+python-dotenv
+supabase
